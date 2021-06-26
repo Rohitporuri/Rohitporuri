@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohitporuri
 - 👀 I’m interested in Automobile design & development
 - 🌱 I’m currently learning machine learning techniques for computer vision
-- 💞️ I’m looking to collaborate on Automated motorbike helmet detection
+- 💞️ I’m looking to collaborate on Automatic motorbike helmet detection using machine learning
 - 📫 How to reach me through LinkedIn, Facebook, GitHub
 
 <!---
